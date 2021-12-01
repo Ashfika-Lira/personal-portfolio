@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "name": "Un Dojo",
+        "title": "Education Related Website",
+        "img": "https://i.ibb.co/pL6d1dw/Capture1.png",
+        "img1": "https://i.ibb.co/tJCkk1w/Capture11.png",
+        "img2": "https://i.ibb.co/Lvv9vRP/Capture1111.png",
+        "img3": "https://i.ibb.co/K7dV4N2/Capture111.png",
+        "description": "Responsive MERN Stack app and Implement Service Page.Created a Coaches page and used  nested routes.Implement Authentication System like, email-password and Google Sign in with Firebase.",
+        "link": "https://wonderful-mccarthy-f3600d.netlify.app/",
+        "technology": "React, React Bootstrap, React Router,Nested Route, React Hook Form, CSS, React Ratings, Firebase Authentication, Heroku, Firebase Hosting.",
+        "bullet": [
+            "Responsive MERN Stack app and Implement Services Page",
+            "Created a coach page and used  nested routes",
+            "Simple Routing without refresh",
+            "User Different routes",
+            "Implemented 404 Page"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Scientists award",
+        "title": "Superhero Related Website ",
+        "img": "https://i.ibb.co/0ycjHt7/Capture4.png",
+        "img1": "https://i.ibb.co/zSCLX5r/Capture4444.png",
+        "img2": "https://i.ibb.co/5Tb7hTy/Capture444.png",
+        "img3": "https://i.ibb.co/BGTfrXd/Capture44.png",
+        "description": "Implement React router.Implement Services Page and use CSS animation effects.Create Fake date using JSON and Implement 404 page.",
+        "link": "https://scientists-react-ashfi.netlify.app/",
+        "technology": "React, React Bootstrap, Bootstrap5, React Router, CSS, React Hook, Firebase Hosting.",
+        "bullet": [
+            "Implement React router",
+            "Implement Services Page and use CSS animation effects",
+            "Create Fake data using JSON",
+            "Simple & core knowledge about JS React",
+            "Implemented 404 Page"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dentivo",
+        "title": " Medical Service Website",
+        "img": "https://i.ibb.co/rkMv278/Capture3.png",
+        "img1": "https://i.ibb.co/5k63CGr/Capture33.png",
+        "img2": "https://i.ibb.co/7XBwMsW/Capture333.png",
+        "img3": "https://i.ibb.co/Xsz6DWT/Capture3333.png",
+        "description": "Implement React router.Implement Services Page and use CSS animation effects.Create Fake data using JSON and Implement 404 page.",
+        "link": "https://healthcare-related-websi-4069d.web.app/",
+        "technology": "",
+        "bullet": [
+            "Implement Authentication system with Firebase",
+            "Fully Responsive for mobile, tablet and desktop version",
+            "Implements Context API, React Hooks, Custom Hooks",
+            "User have the ability to delete bookings",
+            "Implemented 404 Page"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Travel Crafter",
+        "title": " Travel related Website",
+        "img": "https://i.ibb.co/DrqXnyr/Capture2.png",
+        "img1": "https://i.ibb.co/zmRfpf2/Capture22.png",
+        "img2": "https://i.ibb.co/0fJLqDv/Capture222.png",
+        "img3": "https://i.ibb.co/DDHMXYL/Capture2222.png",
+        "description": "Implement Authentication system with Firebase.Fully Responsive for mobile, tablet and desktop version.Implements Context API, React Hooks, Custom Hooks.",
+        "link": "https://travel-crafter.web.app/",
+        "technology": "React, React Bootstrap, React Router, React Hook Form, CSS, Google Map, Firebase Authentication, Nodejs, Express Js, MongoDB, Heroku, Firebase Hosting.",
+        "bullet": [
+            "Implement React router",
+            "Implement Services Page and use CSS animation effects",
+            "Create Fake data using JSON",
+            "More Courses are available",
+            "Implemented 404 Page"
+        ]
+    }
+]

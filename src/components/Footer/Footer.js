@@ -48,7 +48,7 @@ const Footer = () => {
                                 <ul>
                                     <li><HashLink as={HashLink} to="/projects">My Projects</HashLink></li>
                                     <li><a href={resumeUrl} target="_blank" rel="noreferrer">Online Resume</a></li>
-
+                                    <li><HashLink as={HashLink} to="/blogs">Blog</HashLink></li>
                                     <li><HashLink as={HashLink} to="/about">About Me</HashLink></li>
                                     <li><HashLink as={HashLink} to="/contact">Contact Me</HashLink></li>
                                 </ul>

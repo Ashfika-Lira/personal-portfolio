@@ -5,7 +5,7 @@ import './Header.css';
 const Header = () => {
 
 
-    const resumeUrl = 'https://drive.google.com/file/d/1kkbPd9e6V8r4iie3qgQkCKEVd40luOmF/view?usp=sharing'
+    const resumeUrl = 'https://drive.google.com/file/d/1oncmniilVwx0RuxtlV4AC52RzC-kl13r/view?usp=sharing'
 
     return (
 

@@ -60,7 +60,7 @@ export default function Banner() {
 
           <div className="profile-options">
             <button className="btn primary-btn"> Hire Me </button>
-			<a href="https://drive.google.com/u/0/uc?id=1kkbPd9e6V8r4iie3qgQkCKEVd40luOmF&export=download" type="button" className="btn btnDwnResume me-2 mb-2 mb-md-0 highlighted-btn"> Download Resume
+			<a href="https://drive.google.com/u/0/uc?id=1oncmniilVwx0RuxtlV4AC52RzC-kl13r&export=download" type="button" className="btn btnDwnResume me-2 mb-2 mb-md-0 highlighted-btn"> Download Resume
                         </a>
           </div>
         </div>
